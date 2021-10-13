@@ -1,5 +1,5 @@
 #FROM openshift/jenkins-slave-base-centos7
-FROM registry.redhat.io/openshift3/jenkins-slave-base-rhel7:v3.11
+FROM registry.access.redhat.com/openshift3/jenkins-slave-base-rhel7:v3.11
 
 MAINTAINER AAFC DevOps Team no-reply@canada.ca
 
